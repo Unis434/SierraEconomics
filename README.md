@@ -1,5 +1,0 @@
-# SierraEconomics
-SierraEconomics provides its users with accurate Economics information about Sierra Leone  and for other 195 countries including historical data for more than 300.000 economic indicators, exchange rates, stock market indexes, government bond yields and commodity prices. The data is based on official sources, not third party data providers, and the facts are regularly checked for inconsistencies. SierraEconomics.com is a work in progress for now and will be a complete project based on users FAQs and recommendations. <br>
-
-The SierraEconomics API will provides you with direct access to 300.000 economic indicators, exchange rates, stock market indexes, government bond yields and commodity prices. Providing several request methods to query our databases, with samples available in different programming languages, it is the best way to export data in XML, CSV or JSON format. The API will be used to feed a custom developed application, a public website or just off-the-shelf software like Microsoft Excel.
-
