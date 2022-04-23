@@ -7,6 +7,7 @@
 * [Questions](#questions)
 * [Credits](#credits)
 
+
 ## Deployed
 Access the website at https://unis434.github.io/SierraEconomics/
 
